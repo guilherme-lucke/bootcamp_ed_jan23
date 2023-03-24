@@ -1,0 +1,9 @@
+Started by user [8mha:////4Oq+GNSqZprEbM2f47/oV6tlkZDquFBn7XmlJqXTPf3UAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZu/dLi1CL9nNLk7FQAi1yx1sAAAAA=[0mGuilherme Grilo Lucke
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Cambio
+[Cambio] $ /bin/sh -xe /tmp/jenkins2589951370141360501.sh
++ cd /cambio
++ python main.py
+/tmp/jenkins2589951370141360501.sh: 3: python: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
