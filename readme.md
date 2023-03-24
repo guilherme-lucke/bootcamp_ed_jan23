@@ -10,7 +10,7 @@ Repositório de códigos do bootcamp de ED de Jan/23
 * André Sionek - [GitHub](https://github.com/andresionek91)
 * Rhuan Lima - [GitHub](https://github.com/rhuanlima)
 
-## Calendário
+## Agenda
 
 - 19/01 - Encontro Inaugural
 - 26/01 - Carreira e processos seletivos para profissionais Junior
