@@ -6,7 +6,7 @@ Repositório de códigos do bootcamp de ED de Jan/23
 
 ## Facilitadores
 
-* How Education - [site](https://howedu.com.br/)
+* How Education - [Site](https://howedu.com.br/)
 * André Sionek - [GitHub](https://github.com/andresionek91)
 * Rhuan Lima - [GitHub](https://github.com/rhuanlima)
 
@@ -26,4 +26,4 @@ Repositório de códigos do bootcamp de ED de Jan/23
 - 13/04 - Apache Spark com DataBricks
 - 20/04 - Apache Airflow
 - 27/04 - MLOps
-- 04/05 - Carreira e Portfólio- 
+- 04/05 - Carreira e Portfólio
