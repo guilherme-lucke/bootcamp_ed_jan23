@@ -19,4 +19,4 @@ Os dados são sobre estatísticas de competições internacionais da Fifa. A ide
 Cristiano Ronaldo, jogador da seleção de Portugal, lidera todos os rankings mostrados na análise.
 Nenhum jogador brasileiro apareceu no top 10 desses dados.
 
-<img src="/analise_final.png">
+![análise final](https://github.com/guilherme-lucke/bootcamp_ed_jan23/assets/128616239/bc543b21-1434-450a-830f-8dc67aff269e)
